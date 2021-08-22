@@ -1,9 +1,9 @@
 # Source Codes - Zhirrr's API
 <p align="center">
-<a href="#"><img title="api zeeoneofc" src="https://img.shields.io/badge/zeeoneofc Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RakuGans Api" src="https://img.shields.io/badge/RakuGans Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofc"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZeroChanBot"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
